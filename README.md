@@ -1,5 +1,5 @@
 # Oopz
-Oopz 语音 Windows 客户端
+Oopz 语音 Windows/网页客户端
 
 官网：<https://oopz.cn/>
 
