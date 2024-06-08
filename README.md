@@ -5,4 +5,4 @@ Oopz 语音 Windows 客户端
 
 Web 端：<https://web.oopz.cn/>
 
-邀请码：`DSYRQQ`
+邀请码：`MN5WX8`
