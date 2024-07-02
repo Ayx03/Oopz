@@ -9,7 +9,7 @@ Oopz 语音 Windows/网页客户端。Oopz Voice Windows/Web Client.
 
 网页端/Web Version Client：<https://web.oopz.cn/>
 
-邀请码/Invite Code：`FRJH7P`
+邀请码/Invite Code：`ZZ6DSE`
 
 目前仅支持中国大陆（+86）手机号（支持中国广电 +86 192 **** ****）。
 
