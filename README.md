@@ -9,7 +9,7 @@ Oopz 语音 安卓手机/Windows/网页客户端。Oopz Voice Android/Windows/We
 
 官方 Android 安卓手机客户端下载链接/Official Android Client Download Link：<https://downloadcdn.oopz.cn/release/apk/oopz-0.1.0.apk>
 
-苹果 App Store：<https://apps.apple.com/cn/app/oopz/id6503333835>
+iPhone/苹果手机（App Store）：<https://apps.apple.com/cn/app/oopz/id6503333835>
 
 网页端/Web Version Client：<https://web.oopz.cn/>
 
