@@ -5,6 +5,8 @@ Oopz 语音 安卓手机/Windows/网页客户端。Oopz Voice Android/Windows/We
 
 官网/Official Website：<https://oopz.cn/>
 
+移动端/Mobile Official Website：<https://m.oopz.cn/>
+
 官方 Windows 电脑客户端下载链接/Official Windows Client Download Link：<https://downloadcdn.oopz.cn/release/119/oopz_setup_v1.1.9.exe>
 
 官方 Android 安卓手机客户端下载链接/Official Android Client Download Link：<https://downloadcdn.oopz.cn/release/apk/oopz-0.1.0.apk>
