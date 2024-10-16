@@ -24,3 +24,7 @@ iPhone/苹果手机（App Store）：<https://apps.apple.com/cn/app/oopz/id65033
 Only China mainland (+86) phone numbers (including China Boardnet CBN +86 192 **** ****) are currently supported.
 
 Oopz 帮助中心/Help Center：<https://help.oopz.cn/>
+
+## 截图/Screenshots
+
+![image](https://github.com/user-attachments/assets/5a5570f0-72c6-44b6-9219-8667a1abcaa6)
