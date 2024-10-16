@@ -1,5 +1,7 @@
 # Oopz
-Oopz 语音 安卓手机/Windows/网页客户端。Oopz Voice Android/Windows/Web Client.
+Oopz 语音 安卓手机/Windows/网页客户端。Oopz Voice Android/Windows/Web Client. 
+
+向免费用户提供 192 Kbps 无损音质语音频道和 480p 60fps 的屏幕分享功能。新版内置加速器。Support 192 Kbps Low Latency Voice channels and 480p30fps screen sharing for free users. Newer versions has a built-in game accelerater.
 
 **请注意：这不是一个官方页面**
 
@@ -9,7 +11,7 @@ Oopz 语音 安卓手机/Windows/网页客户端。Oopz Voice Android/Windows/We
 
 官方 Windows 电脑客户端下载链接/Official Windows Client Download Link：<https://downloadcdn.oopz.cn/release/119/oopz_setup_v1.1.9.exe>
 
-官方 Android 安卓手机客户端下载链接/Official Android Client Download Link：<https://downloadcdn.oopz.cn/release/apk/oopz-0.1.0.apk>
+官方 Android 安卓手机客户端下载链接/Official Android Client Download Link：<https://downloadcdn.oopz.cn/release/apk/oopz.apk>
 
 iPhone/苹果手机（App Store）：<https://apps.apple.com/cn/app/oopz/id6503333835>
 
