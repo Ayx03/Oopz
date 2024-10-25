@@ -28,3 +28,7 @@ Oopz 帮助中心/Help Center：<https://help.oopz.cn/>
 ## 截图/Screenshots
 
 ![image](https://github.com/user-attachments/assets/5a5570f0-72c6-44b6-9219-8667a1abcaa6)
+
+## 其他
+
+官方哔哩哔哩账号 / Official bilibili account: <https://space.bilibili.com/3546589865969701>
