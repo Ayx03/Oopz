@@ -32,3 +32,5 @@ Oopz 帮助中心/Help Center：<https://help.oopz.cn/>
 ## 其他
 
 官方哔哩哔哩账号 / Official bilibili account: <https://space.bilibili.com/3546589865969701>
+
+官方知乎账号 / Official Zhihu account: <https://www.zhihu.com/people/oopz-73>
