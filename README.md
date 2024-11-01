@@ -17,7 +17,7 @@ iPhone/苹果手机（App Store）：<https://apps.apple.com/cn/app/oopz/id65033
 
 网页端/Web Version Client：<https://web.oopz.cn/>
 
-邀请码/Invite Code：`WUESW6`
+邀请码/Invite Code：`DSYRQQ`
 
 目前仅支持中国大陆（+86）手机号（支持中国广电 +86 192 **** ****）。
 
