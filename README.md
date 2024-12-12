@@ -31,7 +31,7 @@ Oopz 帮助中心/Help Center：<https://help.oopz.cn/>
 
 ![image](https://github.com/user-attachments/assets/5a5570f0-72c6-44b6-9219-8667a1abcaa6)
 
-### 屏幕分享功能价格（2024/11/24）
+### 屏幕分享PRO（解锁720p&1080p画质）价格（2024/11/24）
 
 ![image](https://github.com/user-attachments/assets/eecebf11-f0c3-4b12-8474-de8efeaf0ce1)
 
