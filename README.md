@@ -5,7 +5,7 @@ Oopz 语音 安卓手机/iOS/Windows/网页客户端。Oopz Voice Android/iOS/Wi
 
 **请注意：这不是一个官方页面 Please Note that this is NOT an official page**
 
-用户可能会被要求实名认证，支持使用台胞证（台湾居民来往内地通行证）。Users may be required to authenticate with their real names, and support the use of Taiwan Compatriot Certificate (Taiwan Residents Travel Permit to and from the Mainland).
+用户可能会被要求实名认证，支持使用台胞证（台湾居民来往内地通行证）。Users may be required to authenticate with their real names, the use of Taiwan Compatriot Certificate (Taiwan Residents Travel Permit to and from the Mainland) is supported.
 
 邀请码/Invite Code：`MN5WX8`
 
