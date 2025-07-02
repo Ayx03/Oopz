@@ -1,6 +1,8 @@
 # Oopz
 Oopz 语音 安卓手机/iOS/Windows/网页客户端。Oopz Voice Android/iOS/Windows/Web Client. 
 
+**⚠️强制更新的手机版 1.0.4 新增了开屏摇一摇广告，包括安卓和 iOS。The mobile version 1.0.4 added "shake to jump" advertisement on launch, and you're required to update to this version to continue to use this app.**
+
 向免费用户提供 16/64/128/192 Kbps 无损音质语音频道和。新版内置加速器。Support 16/64/128/192 Kbps Low Latency Voice channels for free users. Newer versions has a built-in game accelerater.
 
 **请注意：这不是一个官方页面 Please Note that this is NOT an official page**
