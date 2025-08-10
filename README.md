@@ -9,7 +9,7 @@ Oopz 语音 安卓手机/iOS/Windows/网页客户端。Oopz Voice Android/iOS/Wi
 
 用户可能会被要求实名认证，支持使用台胞证（台湾居民来往内地通行证）。Users may be required to authenticate with their real names, the use of Taiwan Compatriot Certificate (Taiwan Residents Travel Permit to and from the Mainland) is supported.
 
-邀请码/Invite Code：`DSYRQQ`
+邀请码/Invite Code：`8M5RC6`
 
 官网/Official Website：<https://oopz.cn/>
 
